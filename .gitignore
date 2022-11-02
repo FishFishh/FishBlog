@@ -1,0 +1,4 @@
+# Project exclude paths
+/fish.admin/target/
+/fish.blog/target/
+/fish.framework/target/
